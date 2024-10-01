@@ -1,4 +1,5 @@
 Ninjacart Cherry Distribution Case Study
+
 This case study analyzes how Ninjacart can become the leading distributor of cherries in India. It examines market trends, consumer behavior, and the logistical needs of selling cherries through supermarkets in Chennai.
 
 Project Overview:
